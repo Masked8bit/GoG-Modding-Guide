@@ -7,8 +7,8 @@ Hello! This is a mega-guide on everything to do with **Gods of Gravity modding**
 ## Select an option
 > # Quest Standalone Modding
 > Play modded Gods of Gravity on your Meta Quest VR headset.
-> > [Getting Started (Quest)](https://masked8bit.github.io/GoG-Modding-Guide/quest/getting-started.md)
+> > [Getting Started (Quest)](https://masked8bit.github.io/GoG-Modding-Guide/quest/getting-started)
 
 > # PCVR Modding
 > Play modded Gods of Gravity on your PCVR headset.
-> > [Getting Started (PCVR)](https://masked8bit.github.io/GoG-Modding-Guide/quest/getting-started.md)
+> > [Getting Started (PCVR)](https://masked8bit.github.io/GoG-Modding-Guide/quest/getting-started)
