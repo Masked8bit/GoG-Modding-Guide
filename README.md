@@ -1,5 +1,7 @@
+# Home
 ### Last updated: 5/19/2023
-# Before we start
+
+## Before we start
 Hello! This is a mega-guide on everything to do with **Gods of Gravity modding**. Please note that this is an unofficial guide and may not always be up to date!
 
 ## Select an option
