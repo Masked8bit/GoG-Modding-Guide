@@ -6,8 +6,8 @@ Make sure to enable developer mode on your Meta Quest headset. [Here's a WikiHow
 
 ## Choose a method
 > # Using SideQuest
-> [Using SideQuest](https://masked8bit.github.io/GoG-Modding-Guide/quest/using-sidequest)
+> > [Using SideQuest](https://masked8bit.github.io/GoG-Modding-Guide/quest/using-sidequest)
 
 > # Using Gods of Modding
 > An unofficial installer utility made by Masked8bit.
-> > [Gods of Modding GitHub page](https://github.com/Masked8bit/Gods-of-Modding/#dependencies)
+> > [Using Gods of Modding](https://masked8bit.github.io/GoG-Modding-Guide/quest/using-gom)
